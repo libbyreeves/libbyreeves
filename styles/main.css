@@ -1,8 +1,12 @@
 .portfolio-header {
   position: relative;
-  background-image: url(../images/header-bg.jpg);
+  background-color: aliceblue;
+  justify-content: space-around !important;
 }
 
+.is-compact {
+  max-height: 100px !important;
+}
 .portfolio-header .mdl-layout__header-row {
   padding: 0;
   -webkit-justify-content: center;
@@ -45,7 +49,6 @@
 .portfolio-navigation-row {
   background-color: rgba(0, 0, 0, 0.08);
   text-transform: uppercase;
-  height: 45px;
 }
 
 .portfolio-navigation-row  .mdl-navigation {
@@ -78,7 +81,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: rgb(255,64,129);
+  background-color: rgb(255, 67, 61);
   left: 15%;
 }
 
