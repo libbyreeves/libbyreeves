@@ -28,6 +28,18 @@
   <link rel="stylesheet" href="https://code.getmdl.io/1.1.2/material.grey-red.min.css"/>
   <link rel="stylesheet" href="styles/main.css"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  <script type="text/javascript" src="scripts/pdfobject.js"></script>
+
+  <script type="text/javascript">
+
+    window.onload = function (){
+
+      var success = new PDFObject({ url: "docs/pharm-lab-4.pdf" }).embed("pdf");
+
+    };
+
+  </script>
 </head>
 
 <body>
@@ -50,27 +62,18 @@
     <div class="mdl-grid portfolio-max-width">
 
       <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp">
-        <div class="mdl-card__media">
-          <img class="article-image" src="images/capstone-header.jpg" border="0" alt="">
-        </div>
 
         <div class="mdl-grid portfolio-copy">
-          <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Eastern GTA Environmental Network Capstone</h3>
-          <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding">
+          <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Quality Control Testing</h3>
+          <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding ">
             <p>
-              While auditing an environmental capstone class at the University of Toronto, I was invited to join the
-              team to work on a networking project. The aim of the project was to lay the ground work for a site that
-              would identify all of the research papers published in the Highland Creek area of Scarborough, provide
-              links to those papers, and pin point where the research was conducted on a map of the area. The main goal
-              was to bring awareness to the natural resource on campus, allow researchers to view all the available data
-              in one place, and to spark new research ideas on the areas that had not yet been studied in the area.
+              The following is an example of a pharmaceutical report detailing some common pharmaceutical quality control tests conducted on aspirin tablets. The tests performed were tablet hardness, disintegration, and friability.
             </p>
           </div>
-          <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding">
-            <p>
-              The following is an academic achievement I received in my first semester of school. I also received the
-              honor roll award for the following semester of studies.
-            </p>
+        </div>
+        <div class="mdl-card__media">
+          <div class="portfolio-content-container">
+            <div id="pdf"><a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--accent" href="docs/pharm-lab-4.pdf">Download the Lab</a></div>
           </div>
         </div>
       </div>
