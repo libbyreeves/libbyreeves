@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elizabeth (Libby) Reebes</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Elizabeth (Libby) Reeves</h1>
 <h3 align="center">A frontend developer, former lab technician, and crochet wizard from Toronto, Canada</h3>
 
 - 🔭 I’m currently working on [hi](ho)
