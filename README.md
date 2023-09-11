@@ -1,6 +1,7 @@
 <div id="header">
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Elizabeth (Libby) Reeves</h1>
-  <h3 align="center">A frontend developer💻, former lab technician👩‍🔬, and crochet wizard🪄 from 🍁Toronto, Canada🍁</h3>
+  <h3 align="center">A frontend developer💻, former lab technician👩‍🔬, and crochet wizard🪄 from</h3>
+  <h3 align="center">🍁Toronto, Canada🍁</h3>
   <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThseW0zYmxvMDFpMWYxanVzM21lZHo1YWN5eWc3dDllNnZ2N3psNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nWqD4ViFej9REAw/giphy.gif" width="600" height="300"/>
   </div>
