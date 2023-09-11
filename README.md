@@ -18,8 +18,9 @@
 
 - 🌱 I’m currently learning: **Wordpress, PHP**
 
-- ⚡ Fun fact: **In my spare time you can find me on <a href="https://www.twitch.tv/xoxosilverxoxo/">Twitch</a> crocheting or playing sidescroller games (currently playing Ori and the Will of the Wisps)**
-</div>
+- ⚡ Fun fact: **In my spare time you can find me on <a href="https://www.twitch.tv/xoxosilverxoxo/">Twitch</a> crocheting or playing sidescroller games**
+  
+- :video_game: Currently Playing: **Ori and the Will of the Wisps**
 
 ---
 
