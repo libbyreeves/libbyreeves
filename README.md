@@ -25,9 +25,9 @@
 
 <h3 align="left">:coffee:Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elizabeth-reeves-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabeth-reeves-web-developer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elizabeth-reeves-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="elizabeth-reeves-web-developer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elizabeth-reeves-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabeth-reeves-web-developer" height="30" width="40" /></a>
+<a href="https://elizabeth-reeves.ca/" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/globe.svg" alt="elizabeth-reeves-web-developer portfolio link" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/elizabeth-reeves-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabeth-reeves-web-developer linkedin link" height="30" width="40" /></a>
+<a href="https://calendly.com/libbyreeves-dev" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/calendar.svg" alt="elizabeth-reeves-web-developer calendly link" height="30" width="40" /></a>
 </p>
 
 ---
