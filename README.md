@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on: <b>Chatvia</b>
 
-- :mega:Recently Completed: <b>BooleBots</b>
+- ✅ Recently Completed: <b>BooleBots</b>
 
 - 🌱 I’m currently learning: **Wordpress, PHP**
 
 - ⚡ Fun fact: **In my spare time you can find me on <a href="https://www.twitch.tv/xoxosilverxoxo/">Twitch</a> crocheting or playing sidescroller games**
   
-- :video_game: Currently Playing: **Transistor**
+- 🎮 Currently Playing: **Transistor**
 
 ---
 
